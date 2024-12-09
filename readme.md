@@ -1,6 +1,6 @@
 # PDF Database
 
-Welcome to the PDF Database! Here is a collection of pictures and pdfs with 
+Welcome to the PDF Database! Here is a collection of pictures and pdfs.
 
 ## Topics
 
@@ -43,7 +43,7 @@ Welcome to the PDF Database! Here is a collection of pictures and pdfs with
   </div>
   <div class="gallery-item">
     <a href="https://drive.google.com/file/d/1mzleKG7kpYIQpbF11vh0I8zP9OhVkrVN/view?usp=sharing" target="_blank">
-      <img src="images/preview4.jpg" alt="Topic 4 Preview">
+      <img src="images/preview4-ship.jpg" alt="Topic 4 Preview">
       <p>Link to document on google drive</p>
     </a>
   </div>
