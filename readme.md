@@ -1,4 +1,6 @@
-# PDF Database
+<!-- link to actual site https://conradbuck.github.io/simple-link-tree/ -->
+
+# PDF Database (cooler title here)
 
 Welcome to the PDF Database! Here is a collection of pictures and pdfs.
 
