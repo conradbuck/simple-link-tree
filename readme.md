@@ -1,11 +1,8 @@
 <!-- link to actual site https://conradbuck.github.io/simple-link-tree/ -->
-<a href="https://conradbuck.github.io/simple-link-tree/" target="_blank">Link to fancy website here</a>
 
 # PDF Database (cooler title here)
 
 Welcome to the PDF Database! Here is a collection of pictures and pdfs.
-
-## Topics
 
 <style>
   .gallery {
@@ -25,6 +22,7 @@ Welcome to the PDF Database! Here is a collection of pictures and pdfs.
   }
 </style>
 
+<a href="https://conradbuck.github.io/simple-link-tree/" target="_blank">Link to fancy website here</a>
 <div class="gallery">
   <div class="gallery-item">
     <a href="documents/document1.pdf" target="_blank">    <!--## file location of pdf in github repo ##-->
