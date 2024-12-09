@@ -1,6 +1,6 @@
 # PDF Database
 
-Welcome to the PDF Database! Below you'll find a collection of topics with associated preview images. Click the titles to access the corresponding documents.
+Welcome to the PDF Database! Here is a collection of pictures and pdfs with 
 
 ## Topics
 
@@ -33,36 +33,37 @@ Welcome to the PDF Database! Below you'll find a collection of topics with assoc
 
 <div class="gallery">
   <div class="gallery-item">
-    <a href="documents/document1.pdf" target="_blank">
-      <img src="images/image1.jpg" alt="Topic 1 Preview">
-      <p>Topic 1</p>
+    <a href="documents/document1.pdf" target="_blank">    <--## file location of pdf in github repo ##-->
+      <img src="images/image1.jpg" alt="Topic 1 Preview"> <--## file location of preview image within github repo ##-->
+      <p>Cool stuff about Ni-20Cr machining</p>		  <--## name of hyperlink ##-->
     </a>
   </div>
-<!--
   <div class="gallery-item">
-    <a href="documents/document2.pdf" target="_blank">
+    <a href="https://again.framer.ai/" target="_blank">
       <img src="images/preview2.jpg" alt="Topic 2 Preview">
-      <p>Topic 2</p>
+      <p>Link to external webpage about my lights</p>
     </a>
   </div>
   <div class="gallery-item">
-    <a href="documents/document3.pdf" target="_blank">
+    <a href="https://forms.gle/uWzb2qyrie8GGCes7" target="_blank">
       <img src="images/preview3.jpg" alt="Topic 3 Preview">
-      <p>Topic 3</p>
+      <p>Join our mailing list (google forms link)</p>
     </a>
   </div>
   <div class="gallery-item">
-    <a href="documents/document4.pdf" target="_blank">
+    <a href="https://drive.google.com/file/d/1mzleKG7kpYIQpbF11vh0I8zP9OhVkrVN/view?usp=sharing" target="_blank">
       <img src="images/preview4.jpg" alt="Topic 4 Preview">
-      <p>Topic 4</p>
+      <p>Link to document on google drive</p>
     </a>
   </div>
   <div class="gallery-item">
-    <a href="documents/document5.pdf" target="_blank">
+    <a href="https://cdn-shop.adafruit.com/datasheets/WS2811.pdf" target="_blank">
       <img src="images/preview5.jpg" alt="Topic 5 Preview">
-      <p>Topic 5</p>
+      <p>Link to pdf on random website</p>
     </a>
   </div>
+<!-- commenting out image placement 6 to leave as references -->
+<!--
   <div class="gallery-item">
     <a href="documents/document6.pdf" target="_blank">
       <img src="images/preview6.jpg" alt="Topic 6 Preview">
@@ -73,9 +74,11 @@ Welcome to the PDF Database! Below you'll find a collection of topics with assoc
 
 </div>
 
----
+<!--
 
 ### Instructions for Contribution
 1. Add your PDF document to the `documents` directory.
 2. Add a preview image to the `images` directory.
 3. Update this `README.md` file to include your new document and image in the format above.
+
+-->
