@@ -1,5 +1,5 @@
 <!-- link to actual site https://conradbuck.github.io/simple-link-tree/ -->
-<a href="https://conradbuck.github.io/simple-link-tree/" target="_blank">Hidden Link</a>
+<a href="https://conradbuck.github.io/simple-link-tree/" target="_blank">Link to fancy website here</a>
 
 # PDF Database (cooler title here)
 
