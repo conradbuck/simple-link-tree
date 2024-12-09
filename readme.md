@@ -11,31 +11,22 @@ Welcome to the PDF Database! Here is a collection of pictures and pdfs with
     gap: 20px;
     margin: 20px 0;
   }
-  .gallery-item {
-    text-align: center;
-  }
   .gallery img {
     width: 100%;
     height: auto;
+    aspect-ratio: 1 / 1; /* Forces images to be square */
+    object-fit: cover;   /* Ensures the image is cropped appropriately */
     border: 1px solid #ccc;
     border-radius: 8px;
     box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.1);
-  }
-  .gallery a {
-    text-decoration: none;
-    color: #0078d7;
-    font-weight: bold;
-  }
-  .gallery a:hover {
-    text-decoration: underline;
   }
 </style>
 
 <div class="gallery">
   <div class="gallery-item">
-    <a href="documents/document1.pdf" target="_blank">    <--## file location of pdf in github repo ##-->
-      <img src="images/image1.jpg" alt="Topic 1 Preview"> <--## file location of preview image within github repo ##-->
-      <p>Cool stuff about Ni-20Cr machining</p>		  <--## name of hyperlink ##-->
+    <a href="documents/document1.pdf" target="_blank">    <!--## file location of pdf in github repo ##-->
+      <img src="images/image1.jpg" alt="Topic 1 Preview"> <!--## file location of preview image within github repo ##-->
+      <p>Cool stuff about Ni-20Cr machining</p>		  <!--## name of hyperlink ##-->
     </a>
   </div>
   <div class="gallery-item">
